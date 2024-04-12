@@ -11,11 +11,11 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    MAVI_TOKEN = os.environ.get("MAVI_TOKEN", "")
     
-    API_ID = int(os.environ.get("API_ID", ""))
+    MAVI_ID = int(os.environ.get("MAVI_ID", ""))
     
-    API_HASH = os.environ.get("API_HASH", "")
+    MAVI_HASH = os.environ.get("MAVI_HASH", "")
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     
@@ -39,11 +39,11 @@ class Config(object):
     
     PROCESS_MAX_TIMEOUT = 0
     
-    DEF_WATER_MARK_FILE = "UploadLinkToFileBot"
+    DEF_WATER_MARK_FILE = "Mavi Upload Bot"
     
     DATABASE_URL = os.environ.get("DATABASE_URL", "")
     
-    SESSION_NAME = os.environ.get("SESSION_NAME", "UploadLinkToFileBot")
+    SESSION_NAME = os.environ.get("SESSION_NAME", "MaviUploadBot")
     
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
     
@@ -51,9 +51,9 @@ class Config(object):
 
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
     
-    OWNER_ID = int(os.environ.get("OWNER_ID", "1834908260"))
+    OWNER_ID = int(os.environ.get("OWNER_ID", "2126131508"))
     
     TG_MIN_FILE_SIZE = 2097152000
     
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "MaviupBot")
                                   
