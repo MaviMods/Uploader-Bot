@@ -22,11 +22,11 @@ if __name__ == "__main__" :
     plugins = dict(root="plugins")
     Ntbots = Ntbots(
         "UploadLinkToFileBot",
-        bot_token=Config.BOT_TOKEN,
-        api_id=Config.API_ID,
-        api_hash=Config.API_HASH,
+        bot_token=Config.MAVI_TOKEN,
+        api_id=Config.MAVI_ID,
+        api_hash=Config.MAVI_HASH,
         plugins=plugins)
 
-    print("🎊 I AM ALIVE 🎊")
+    print("🎊 I AM ALIVE @MAVIMODS 🎊")
     Ntbots.run()
 
