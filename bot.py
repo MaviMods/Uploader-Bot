@@ -1,6 +1,4 @@
-# Hey Give Me Star 🥲
-
-
+#MAVIMODS
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
