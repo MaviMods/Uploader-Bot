@@ -123,16 +123,16 @@ async def youtube_dl_call_back(bot, update):
  
 
     if Config.HTTP_PROXY != "":
-        command_to_exec.append("--proxy")
+        #command_to_exec.append("--proxy")
         command_to_exec.append(Config.HTTP_PROXY)
     if youtube_dl_username is not None:
-        command_to_exec.append("--username")
+        #command_to_exec.append("--username")
         command_to_exec.append(youtube_dl_username)
     if youtube_dl_password is not None:
-        command_to_exec.append("--password")
+        #command_to_exec.append("--password")
         command_to_exec.append(youtube_dl_password)
-    command_to_exec.append("--no-warnings")
-    command_to_exec.append("--geo-bypass-country")
+    #command_to_exec.append("--no-warnings")
+    #command_to_exec.append("--geo-bypass-country")
     #command_to_exec.append("--quiet")
     logger.info(command_to_exec)
     start = datetime.now()
