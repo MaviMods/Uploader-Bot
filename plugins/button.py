@@ -132,8 +132,8 @@ async def youtube_dl_call_back(bot, update):
         command_to_exec.append("--password")
         command_to_exec.append(youtube_dl_password)
     command_to_exec.append("--no-warnings")
-    command_to_exec.append("--geo-bypass-country")
-    command_to_exec.append("--quiet")
+    #command_to_exec.append("--geo-bypass-country")
+    #command_to_exec.append("--quiet")
     logger.info(command_to_exec)
     start = datetime.now()
     process = await asyncio.create_subprocess_exec(
