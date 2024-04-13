@@ -1,7 +1,7 @@
 ## UPLOADER BOT 🚀
 
 
-[![logo](https://graph.org/file/a7af2d3ece56bbb1297aa.jpg)](https://telegram.dog/UploadLinkToFileBot)
+[![logo](https://telegra.ph/file/504babe67ae701cb458f8.jpg)](https://telegram.dog/MaviupBot)
 
 [![GitHub forks](https://img.shields.io/github/forks/MaviMods/Uploader-Bot?&style=flat-square&logo=github)](https://github.com/MaviMods/Uploader-Bot/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/MaviMods/Uploader-Bot?&style=flat-square&logo=github)
