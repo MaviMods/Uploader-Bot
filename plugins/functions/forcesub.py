@@ -1,3 +1,5 @@
+#MAVIMODS
+
 import asyncio
 from plugins.config import Config
 from pyrogram import Client, enums
