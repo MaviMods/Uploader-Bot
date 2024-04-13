@@ -202,12 +202,12 @@ async def youtube_dl_call_back(bot, update):
             if (await db.get_upload_as_doc(update.from_user.id)) is False:
                 thumbnail = await Gthumb01(bot, update)
                 await update.message.reply_document(
-                    chat_id=update.message.chat.id,
+                   # chat_id=update.message.chat.id,
                     document=download_directory,
                     thumb=thumbnail,
                     caption=description,
                     parse_mode=enums.ParseMode.HTML,
-                    reply_to_message_id=update.id,
+                  #  reply_to_message_id=update.id,
                     progress=progress_for_pyrogram,
                     progress_args=(
                         Translation.UPLOAD_START,
@@ -219,7 +219,7 @@ async def youtube_dl_call_back(bot, update):
                  width, height, duration = await Mdata01(download_directory)
                  thumb_image_path = await Gthumb02(bot, update, duration, download_directory)
                  await update.message.reply_video(
-                    chat_id=update.message.chat.id,
+                 #   chat_id=update.message.chat.id,
                     video=download_directory,
                     caption=description,
                     duration=duration,
@@ -228,7 +228,7 @@ async def youtube_dl_call_back(bot, update):
                     supports_streaming=True,
                     
                     thumb=thumb_image_path,
-                    reply_to_message_id=update.id,
+                  #  reply_to_message_id=update.id,
                     progress=progress_for_pyrogram,
                     progress_args=(
                         Translation.UPLOAD_START,
@@ -240,13 +240,13 @@ async def youtube_dl_call_back(bot, update):
                 duration = await Mdata03(download_directory)
                 thumbnail = await Gthumb01(bot, update)
                 await update.message.reply_audio(
-                    chat_id=update.message.chat.id,
+                   # chat_id=update.message.chat.id,
                     audio=download_directory,
                     caption=description,
                     
                     duration=duration,
                     thumb=thumbnail,
-                    reply_to_message_id=update.id,
+                   # reply_to_message_id=update.id,
                     progress=progress_for_pyrogram,
                     progress_args=(
                         Translation.UPLOAD_START,
@@ -258,12 +258,12 @@ async def youtube_dl_call_back(bot, update):
                 width, duration = await Mdata02(download_directory)
                 thumbnail = await Gthumb02(bot, update, duration, download_directory)
                 await update.message.reply_video_note(
-                    chat_id=update.message.chat.id,
+                  #  chat_id=update.message.chat.id,
                     video_note=download_directory,
                     duration=duration,
                     length=width,
                     thumb=thumbnail,
-                    reply_to_message_id=update.id,
+                  #  reply_to_message_id=update.id,
                     progress=progress_for_pyrogram,
                     progress_args=(
                         Translation.UPLOAD_START,
