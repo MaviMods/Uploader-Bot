@@ -5,7 +5,7 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/MaviMods/Uploader-Bot?&style=flat-square&logo=github)](https://github.com/MaviMods/Uploader-Bot/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/MaviMods/Uploader-Bot?&style=flat-square&logo=github)
-[![GitHub stars](https://img.shields.io/github/stars/MaviMods/Uploader-Bot?&style=flat-square&logo=github)](https://github.com/MavMods/Uploader-Bot/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/MaviMods/Uploader-Bot?&style=flat-square&logo=github)](https://github.com/MaviMods/Uploader-Bot/stargazers)
 
 #
 <a href="https://github.com/MaviMods"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=063EFF&random=false&width=750&lines=WELCOME+TO+UPLOADER+BOT+%F0%9F%9A%80;MADE+BY+%40MAVI+MODS+;FOLLOW+ME+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
