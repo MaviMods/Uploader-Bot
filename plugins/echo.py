@@ -1,6 +1,4 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL
-
-
+#MAVIMODS
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
