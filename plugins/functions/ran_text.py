@@ -1,4 +1,4 @@
-# ᴛʜᴀɴᴋs
+#MAVIMODS
 
 import random
 import string
