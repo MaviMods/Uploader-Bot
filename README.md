@@ -3,12 +3,12 @@
 
 [![logo](https://graph.org/file/a7af2d3ece56bbb1297aa.jpg)](https://telegram.dog/UploadLinkToFileBot)
 
-[![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/UPLOADER-BOT-V4?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/fork)
+[![GitHub forks](https://img.shields.io/github/forks/MaviMods/Uploader-Bot?&style=flat-square&logo=github)](https://github.com/MaviMods/Uploader-Bot/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/MaviMods/Uploader-Bot?&style=flat-square&logo=github)
-[![GitHub stars](https://img.shields.io/github/stars/MaviMods/Uploader-Bot?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/MaviMods/Uploader-Bot?&style=flat-square&logo=github)](https://github.com/MavMods/Uploader-Bot/stargazers)
 
 #
-<a href="https://github.com/MaviMods"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=063EFF&random=false&width=750&lines=WELCOME+TO+UPLOADER+BOT+%F0%9F%9A%80;MADE+BY+%40NT_BOT_CHANNEL+;FOLLOW+ME+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://github.com/MaviMods"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=063EFF&random=false&width=750&lines=WELCOME+TO+UPLOADER+BOT+%F0%9F%9A%80;MADE+BY+%40MAVI+MODS+;FOLLOW+ME+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 #
 
 #
