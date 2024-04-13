@@ -1,3 +1,4 @@
+#MAVIMODS
 import os
 from plugins.functions.display_progress import progress_for_pyrogram, humanbytes
 from plugins.config import Config
