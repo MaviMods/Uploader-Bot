@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+#MAVIMODS
 
 from plugins.config import Config
 from .database import db
