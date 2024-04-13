@@ -1,7 +1,7 @@
 {
-  "name": "Uploader Bot V4 🚀",
+  "name": "Uploader Bot 🚀",
   "description": "Telegram's best Open Source Url Uploader Bot. Create your Fork now.",
-  "logo": "https://te.legra.ph/file/82c925ccc38606d837831.jpg",
+  "logo": "https://telegra.ph/file/504babe67ae701cb458f8.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -13,22 +13,22 @@
     "remote",
     "uploader"
   ],
-  "website": "https://t.me/UploadLinkToFileBot",
-  "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V4",
+  "website": "https://t.me/MaviupBot",
+  "repository": "https://github.com/MaviMods/Uploader-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
-    "BOT_TOKEN": {
+    "MAVI_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "API_ID": {
+    "MAVI_ID": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
-    "API_HASH": {
+    "MAVI_HASH": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
