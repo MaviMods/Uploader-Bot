@@ -259,7 +259,7 @@ async def echo(bot, update):
             reply_to_message_id=update.id
         )
     else:
-        # ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL
+        
         inline_keyboard = []
         cb_string_file = "{}={}={}".format(
             "file", "LFO", "NONE")
