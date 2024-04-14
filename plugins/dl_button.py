@@ -103,7 +103,7 @@ async def ddl_call_back(bot, update):
         try:
             file_size = os.stat(download_directory).st_size
         except FileNotFoundError as exc:
-            download_directory = os.path.splitext(download_directory)[0] + "webm"
+            download_directory = os.path.splitext(download_directory)[0] + "." + "mkv"
             # https://stackoverflow.com/a/678242/4723940
             file_size = os.stat(download_directory).st_size
         if file_size > Config.TG_MAX_FILE_SIZE:
